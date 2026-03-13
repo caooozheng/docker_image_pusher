@@ -1,14 +1,1 @@
-mysql:8.4.3
-redis:7.4.2
-elasticsearch:8.17.0
-kibana:8.17.0
-rabbitmq:4.0.5-management
-nacos/nacos-server:v2.4.3
-bladex/sentinel-dashboard:1.8.8
-apache/rocketmq:5.1.4
-apacherocketmq/rocketmq-dashboard:1.0.0
-seataio/seata-server:2.0.0
-mysql:5.7.30
-zookeeper:3.7.0
-sequenceiq/hadoop-docker:2.7
 mysql:5.7.41
