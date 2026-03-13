@@ -10,4 +10,5 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 seataio/seata-server:2.0.0
 mysql:5.7.30
 zookeeper:3.7.0
-sequenceiq/hadoop-docker:2.7.1
+sequenceiq/hadoop-docker:2.7
+mysql:5.7.41
