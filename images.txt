@@ -2,4 +2,5 @@ mysql:5.7.41
 manondidi/mycat:1.6.7.5
 redis:6.0.10
 mongo:4.4.7-focal
-rabbitmq:3.8.9
+rabbitmq:3.8.9-management
+
