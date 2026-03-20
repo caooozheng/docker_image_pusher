@@ -8,3 +8,4 @@ nacos/nacos-server:v2.3.0
 mysql:8.0.27
 redis:6.0.20
 apache/rocketmq:5.1.4
+apacherocketmq/rocketmq-dashboard:2.1.0
