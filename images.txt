@@ -10,3 +10,4 @@ redis:6.0.20
 apache/rocketmq:5.1.4
 apacherocketmq/rocketmq-dashboard:2.1.0
 elasticsearch:8.13.0
+kibana:8.13.0
